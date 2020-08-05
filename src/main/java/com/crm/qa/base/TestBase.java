@@ -16,6 +16,10 @@ import org.openqa.selenium.support.events.EventFiringWebDriver;
 import com.crm.qa.util.TestUtil;
 import com.crm.qa.util.WebEventListener;
 
+/*
+ * hi mateen
+ * 
+*/
 public class TestBase {
 	
 	public static WebDriver driver;
@@ -65,11 +69,6 @@ public class TestBase {
 		
 	}
 	
-	
-	public void hi() {
-		
-		System.out.println("hi mateen");
-	}
 	
 	
 	
